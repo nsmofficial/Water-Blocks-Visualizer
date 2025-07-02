@@ -15,6 +15,7 @@ export default {
         code: ['monospace'],
       },
       colors: {
+        water: '#3498DB',
         background: 'hsl(var(--background))',
         foreground: 'hsl(var(--foreground))',
         card: {
