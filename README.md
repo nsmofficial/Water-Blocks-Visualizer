@@ -2,13 +2,7 @@
 
 A dynamic and interactive web application that visualizes the "trapping rain water" problem. Users can input an array of block heights, and the application will render the blocks and calculate the total amount of water that can be trapped between them.
 
-<!-- 
-  TODO: Replace this placeholder with a real screenshot of your app.
-  1. Run the app and take a screenshot.
-  2. Add the screenshot file (e.g., `screenshot.png`) to your project folder.
-  3. Update the line below to: ![Water Visualizer Screenshot](./screenshot.png)
--->
-![Water Visualizer Screenshot](https://placehold.co/800x450.png)
+![Water Visualizer Screenshot](./image.png)
 
 ## ✨ Features
 
